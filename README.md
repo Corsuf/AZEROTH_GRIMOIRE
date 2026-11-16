@@ -1,4 +1,4 @@
-# 📖 MyCharPanel Epic — Azeroth Grimoire
+# 📖 MyCharPanel — Azeroth Grimoire
 
 
 
