@@ -1,4 +1,4 @@
-# MyCharPanel Epic
+# MyCharPanel
 
 A World of Warcraft addon for viewing and managing character information, inventory, bank contents, and character history.
 
