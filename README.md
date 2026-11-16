@@ -2,7 +2,8 @@
 
 
 
-![Uploading Снимок экрана от 2026-11-17 00-21-52.png…]()
+<img width="2512" height="1288" alt="Снимок экрана от 2026-11-17 00-21-52" src="https://github.com/user-attachments/assets/a2577526-dcd6-4b59-bb5d-a82d449dbcfa" />
+
 
 
 
