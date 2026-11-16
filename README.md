@@ -4,6 +4,10 @@
 
 <img width="2512" height="1288" alt="Снимок экрана от 2026-11-17 00-21-52" src="https://github.com/user-attachments/assets/a2577526-dcd6-4b59-bb5d-a82d449dbcfa" />
 
+<img width="2512" height="1288" alt="Снимок экрана от 2026-11-17 00-28-28" src="https://github.com/user-attachments/assets/0f347ab3-de7a-44cc-a1c3-f2e7196a2c9a" />
+
+
+<img width="2512" height="1288" alt="Снимок экрана от 2026-11-17 00-28-17" src="https://github.com/user-attachments/assets/0ac57d17-2423-46ce-8ef0-15c254e3c4ea" />
 
 
 
