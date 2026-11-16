@@ -1,5 +1,12 @@
 # MyCharPanel
 
+
+<img width="2512" height="1288" alt="Снимок экрана от 2026-11-17 00-21-52" src="https://github.com/user-attachments/assets/47902d5f-6416-4df1-bffb-805edb128d8b" />
+
+
+
+
+
 A World of Warcraft addon for viewing and managing character information, inventory, bank contents, and character history.
 
 ## Features
